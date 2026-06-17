@@ -16,3 +16,10 @@ frontend/build/
 # System files
 .DS_Store
 Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
